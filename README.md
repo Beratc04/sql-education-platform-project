@@ -12,4 +12,4 @@ PostgreSQL kullanılarak tasarlanmış bir çevrimiçi eğitim platformu veritab
 1. `.sql` dosyasını PostgreSQL'de çalıştırarak veritabanını oluşturun.  
 2. Şema diyagramını inceleyerek tablo ilişkilerini görün.  
 
-**Proje Teslimi:** TurkStudentCo Data Science Bootcamp SQL Final Projesi kapsamında hazırlanmıştır. 
+TurkStudentCo Data Science Bootcamp SQL Final Projesi kapsamında hazırlanmıştır. 
