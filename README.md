@@ -5,7 +5,7 @@ PostgreSQL kullanılarak tasarlanmış bir çevrimiçi eğitim platformu veritab
 
 **İçerik:**  
 - Veritabanı şeması (`sql-education-platform-project.sql`).  
-- İlişki diyagramı (`schema_diagram.png`).  
+- İlişki diyagramı (`SQL Şema görseli.png.png`).  
 - Proje gereksinimlerini karşılayan tablolar (Üyeler, Eğitimler, Sertifikalar, Blog Gönderileri vb.).  
 
 **Nasıl Kullanılır?**  
